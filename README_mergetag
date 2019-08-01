@@ -1,0 +1,13 @@
+This is a description of all the projects contained inside the repository. Here is the project structure
+
+			master branch
+			   |
+			 start branch
+			 |       |				|
+			 |		 |				|
+			 |		 |				|
+		EarthQuake  StubView	mergetag
+		   branch
+		   
+The start branch is empty except for this README file. And the project branches contain all the source file for the project
+So for example if you do checkout earth the EarthQuake branch will be check out
