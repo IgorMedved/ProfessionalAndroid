@@ -23,27 +23,27 @@ public class EarthQuake {
         mLink = link;
     }
 
-    String getId() {
+    public String getId() {
         return mId;
     }
 
-    Date getDate() {
+    public Date getDate() {
         return mDate;
     }
 
-    String getDetails() {
+    public String getDetails() {
         return mDetails;
     }
 
-    Location getLocation() {
+    public Location getLocation() {
         return mLocation;
     }
 
-    double getMagnitude() {
+    public double getMagnitude() {
         return mMagnitude;
     }
 
-    String getLink() {
+    public String getLink() {
         return mLink;
     }
 
